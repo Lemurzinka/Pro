@@ -172,7 +172,7 @@ public class Main {
                 Optional<Wallet> OptionalFrom = findUserWallet(user, fromCurrency);
 
 
-                //Тут іде змішування 2 підходів, але я використав це для образності, що можемо використати або те, або те
+                //Тут іде змішування 2 підходів, але я використав це для образності, можемо використати або те, або те
 
 
                 if(OptionalFrom.isEmpty()) {
